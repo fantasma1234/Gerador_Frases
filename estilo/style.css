@@ -70,7 +70,7 @@ hr {
   text-align: center;
 }
 
-hr::after {
+hr.segundo::after {
   content: "||";
   display: inline-block;
   position: relative;
